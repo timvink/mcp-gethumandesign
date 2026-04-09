@@ -13,7 +13,7 @@ A remote MCP server by [GetHumanDesign.com](https://www.gethumandesign.com) that
 
 ## Prerequisites
 
-1. Create a free account at [gethumandesign.com](https://www.gethumandesign.com) (includes 15 free requests/month)
+1. Create a free account at [gethumandesign.com](https://www.gethumandesign.com)
 2. Add the server to your MCP client using one of the methods below
 
 On first use, you'll be prompted to sign in via OAuth — use the same account you created above.
