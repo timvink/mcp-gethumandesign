@@ -1,6 +1,6 @@
 # Human Design MCP Server
 
-A remote MCP server for [Human Design](https://www.gethumandesign.com) — calculate bodygraph charts, explore your type, profile, strategy, authority, channels, centers, and gates, and compare charts for relationship dynamics.
+A remote MCP server by [GetHumanDesign.com](https://www.gethumandesign.com) that lets AI assistants calculate Human Design bodygraph charts, explore your type, profile, strategy, authority, channels, centers, and gates, and compare charts for relationship dynamics.
 
 ## Features
 
@@ -11,9 +11,16 @@ A remote MCP server for [Human Design](https://www.gethumandesign.com) — calcu
 - **Interactive bodygraph** — visual chart rendered in supporting clients
 - **Adaptive depth** — explanations adjust to your Human Design experience level
 
+## Prerequisites
+
+1. Create a free account at [gethumandesign.com](https://www.gethumandesign.com) (includes 15 free requests/month)
+2. Add the server to your MCP client using one of the methods below
+
+On first use, you'll be prompted to sign in via OAuth — use the same account you created above.
+
 ## Setup
 
-This is a remote MCP server — no local installation required. Connect your MCP client to the hosted endpoint using one of the methods below. Authentication is handled via OAuth 2.0 (you'll be prompted to sign in on first use).
+This is a hosted remote MCP server — nothing to install or run locally. Just point your MCP client at the URL below.
 
 ### Claude Desktop
 
